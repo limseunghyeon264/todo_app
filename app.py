@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('To-do App')
+st.title('📌To-do App📌')
 
 # (할일 + 여부) 객체로 관리하기 위해 만든 클래스
 class Todo:
